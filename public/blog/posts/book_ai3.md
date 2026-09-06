@@ -1,5 +1,5 @@
 ---
-title: 📚 BOOK → AI - Part 3️⃣ (Russell & Norvig, 2010) 
+title: 📚 BOOK → AI - Part 3️⃣ of 3️⃣ (Russell & Norvig, 2010) 
 subtitle: Rating: 10/10 | Audience: Beginner to Advanced AI Scientists
 date: 2026; 08; 14
 ---

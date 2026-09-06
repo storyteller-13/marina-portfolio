@@ -1,5 +1,5 @@
 ---
-title: 📚 BOOK → TAOCP - Part 4️⃣ (Donald E. Knuth, 2019)
+title: 📚 BOOK → TAOCP - Part 4️⃣  of 6️⃣ (Donald E. Knuth, 2019)
 subtitle: Rating: 10/10 | Audience: Beginner to Advanced Computer Scientists | Today's Word: Inexorable
 date: 2026; 08; 27
 ---

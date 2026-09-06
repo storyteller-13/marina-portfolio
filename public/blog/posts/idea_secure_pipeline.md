@@ -8,6 +8,8 @@ date: 2026; 04; 11
 
 > 🌟 EDIT: **[this project started one day after this post](https://github.com/LobsterTrap/tank-os)** and it implements the ideas discussed here. I love seeing this conversation!
 
+> 🌟 EDIT 2: This is uber-cool too (**[by the masters, Guido's team](https://github.com/trailofbits/coop)**). We all know that Rust is the most serious language for this type of work.
+
 ---
 
 ## 🦖 TL;DR

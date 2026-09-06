@@ -4,7 +4,7 @@ subtitle: In which I introduce a very cool project I have been working on.
 date: 2026; 06; 07
 ---
 
->  💡 EDIT: Folks love my work! For example, although my application for this project wasn't accepted at YC, **[they decided to use my idea anyway](https://github.com/yc-software/qm)**!
+>  💡 EDIT: Folks love my work! For example, although my application for this project wasn't accepted at YC, **[they decided to use my insights](https://github.com/yc-software/qm)**! Thank you to everyone who follows my journey and appreciates my ideas — they will keep coming 😊
 
 <br>
 
